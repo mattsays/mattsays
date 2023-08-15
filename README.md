@@ -1,5 +1,5 @@
 # Hi there 👋
-I am **Mattia Sicoli**, a computer engineering student at [Politecnico di Milano](https://www.polimi.it/) 🇮🇹 and I really enjoying working with AI stuff 🖥️ and Robotics 🤖.
+I am **Mattia Sicoli**, a computer engineering student at [Politecnico di Milano](https://www.polimi.it/) 🇮🇹 and I really enjoy working with AI stuff 🖥️ and Robotics 🤖.
 
 ## [🤖 transportino](https://mattsays.dev/transportino) <a href="https://mattsays.dev/transportino"><img align="right" width="180" height="180" margin-left="10px" src="https://raw.githubusercontent.com/Transportino/transportino/main/images/transportino_logo.png"></a>
 
